@@ -1,0 +1,5 @@
+H = int(input())
+A = int(input())
+B = int(input())
+days = H/(A-B)
+print(days)
